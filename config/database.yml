@@ -1,0 +1,8 @@
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: mtgstoredb
+  username: 'mtgstoredb_user'
+  password: 'q2W34ds8'
+  host: mysql.alexandermonteiro.com.br
+
