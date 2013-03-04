@@ -3,6 +3,6 @@ production:
   encoding: utf8
   database: mtgstoredb
   username: 'mtgstoredb_user'
-  password: 'q2W34ds8'
+  password: 'password'
   host: mysql.alexandermonteiro.com.br
 
