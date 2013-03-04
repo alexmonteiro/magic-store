@@ -10,6 +10,7 @@ Spree.config do |config|
   # Uncomment to override the default site name.
   # config.site_name = "Spree Demo Site"
   config.allow_ssl_in_production = false
+  config.set(logo: "magic-logo.png")
 end
 
 Spree.user_class = "Spree::User"
