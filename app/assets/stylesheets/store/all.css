@@ -10,3 +10,17 @@
  *= require_self
  *= require_tree .
 */
+#product-images #main-image {
+    text-align: center;
+    /*border: 0px solid rgb(217, 217, 219);*/
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+
+ul#products li .product-image {
+    /*border: 1px solid rgb(217, 217, 219);*/
+    border: none;
+    padding: 5px;
+    min-height: 110px;
+    background-color: white;
+}
