@@ -5,6 +5,7 @@ namespace :magic_store do
     load 'db/cards/m13.rb'
   end
 
+  desc "Create taxons"
   task :dotaxons => :environment do
     puts "Creating taxons"
     load 'db/cards/m13_taxons.rb'
